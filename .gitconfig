@@ -1,0 +1,6 @@
+[user]
+    name  = Volodymyr But
+    email = git@hiegz.com
+
+[credential]
+    helper = store
